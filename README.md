@@ -1,5 +1,7 @@
 Bally Pinball README
 ====================
+Last Edited: May 31, 2013
+
 
 This was written for the Mata Hari Pinball machine for my Embedded systems course.
 
